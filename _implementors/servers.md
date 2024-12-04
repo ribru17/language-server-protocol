@@ -194,6 +194,7 @@ index: 1
 | [Pony](https://www.ponylang.io/) | [Mahan Bakhshi](https://github.com/MahanBi) | [PonyLS](https://github.com/MahanBi/PonyLS) | Pony |
 | Q# | [MS](https://github.com/microsoft/qsharp-compiler/graphs/contributors) | [Q# Language Server](https://github.com/microsoft/qsharp-compiler) | C# |
 | QML | [Qt](https://www.qt.io/) | [qmlls](https://github.com/qt/qtdeclarative/tree/dev/tools/qmlls) | C++ |
+| Query | [Riley Bruins](https://github.com/ribru17) | [ts_query_ls](https://github.com/ribru17/ts_query_ls) | Rust |
 | [R](https://www.r-project.org/) | [REditorSupport](https://github.com/REditorSupport) | [R language server](https://github.com/REditorSupport/languageserver) | R |
 | Racket | [Jay McCarthy](https://github.com/jeapostrophe) | [racket-langserver](https://github.com/jeapostrophe/racket-langserver) | Racket |
 | [Rain](https://github.com/RainCmd/RainLanguage) | [渴望蓝天](https://github.com/RainCmd) | [RainLanguageServer](https://github.com/RainCmd/RainLanguageServer) | C# |
